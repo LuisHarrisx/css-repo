@@ -1,0 +1,71 @@
+h3{
+    color: magenta;
+    text-decoration: underline wavy green;
+}
+
+p{
+    color: rgb(6, 10, 1);
+    text-decoration: none;
+    background-color: aquamarine;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+    margin-bottom: 100px;
+}
+
+
+h1 {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ol{
+    color: gold
+}
+
+.header{
+
+    height: 200px;
+    background-image: url(../styles/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+background-color: gray;
+background-blend-mode: multiply;    
+
+}
+
+body{
+
+background-color: rgb(235, 241, 239);
+}
+
+h2{
+    text-decoration: underline wavy green
+}
+
+ul li{
+
+color: black;
+/* display: inline; */
+}
+
+span{
+
+    border: 1px solid purple;
+    height: 200px;
+    /* display: block; */
+    margin-top: 50px;
+    /* display: inline-block; */
+    
+}
+
+
+
+input{
+    display: block;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    border: 2px solid purple;
+    border-radius: 5px;
+}
+
+
